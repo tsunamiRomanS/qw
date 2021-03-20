@@ -1,7 +1,7 @@
 {
   "name": "qw",
   "version": "1.0.0",
-  "description": "",
+  "description": "only layout",
   "private": true,
   "scripts": {
     "build": "webpack --mode production",
