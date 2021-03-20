@@ -1,0 +1,5 @@
+'use strict'
+import './js/q'
+import './styles/style.sass'
+import m1 from './img/h.png'
+import m2 from './img/img.png'
